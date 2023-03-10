@@ -1,4 +1,10 @@
-# flaskGPT
+# flaskGPT 🤖
+<div align="center">
+<p>
+    <a href="https://josebenitez.tech" target="_blank">
+      <img src="assets/github-header-image.png"></a>
+</p>
+</div>
 
 ### This is a simple implementation of gpt3.5-turbo model from OpenAI with a nice UI made it with Flask.
 ## Steps 
