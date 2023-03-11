@@ -5,7 +5,7 @@ import openai
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-systemPrompt = { "role": "system", "content": "Use triple backticks with the language name for every code block in your markdown response, if any." }
+systemPrompt = { "role": "system", "content": "You are a helpful assistant." }
 data = []
 
 def get_response(incoming_msg):
